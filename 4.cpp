@@ -10,4 +10,5 @@ int main()
   *pa = a[1][1][1];
   cout << a << endl;
   cout << *pa << endl;
+  return 0;
 }
